@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-These works provide an overview of my research. 
+
 
 ## Published Work
 
