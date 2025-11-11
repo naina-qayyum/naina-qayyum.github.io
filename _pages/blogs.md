@@ -12,3 +12,10 @@ author_profile: true
 * **Are Food Systems Failing Women?**. 2022 <a>https://bcphr.org/qayyum-blog-5/</a>[link]
 * **Food Marketing: The Devil is in the Details**. 2022 <a>https://bcphr.org/qayyum-blog-4/</a>[link]
 * **No Food Safety, No Health Safety**. 2022 <a>https://bcphr.org/qayyum-blog-2/</a>[link]
+
+<i>The following blogs were published as part of AMPLIFY - A Global Health Corps Fellowship blogsite</i>
+
+* **Melinated Moms: Advocating for Mothers in a Health System Where Skin Color Defines Experience.** 2019. <a>https://medium.com/amplify/melinated-moms-advocating-for-mothers-in-a-health-system-where-skin-color-defines-experience-54ad45b0fa98</a>[link]
+* **Beyond Insulin: Community Health Workers’ Role in Diabetes Complex Care Management.** 2019. <a>https://medium.com/amplify/beyond-insulin-community-health-workers-role-in-diabetes-complex-care-management-7d25af06f084</a>[link]
+* **Maternal Mortality in the United States — A Skewed Scenario.** 2019. <a>https://medium.com/amplify/maternal-health-in-the-us-a-skewed-scenario-7aeb9306c7bb</a>[link]
+  
