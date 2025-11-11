@@ -1,8 +1,8 @@
 ---
-layout: single
 title: "Publications"
-permalink: /publications/
+layout: single
 author_profile: true
+permalink: /publications/
 ---
 
 
